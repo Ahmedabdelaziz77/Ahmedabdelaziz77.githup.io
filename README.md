@@ -1,4 +1,4 @@
-# Leaon Template
+# Leon Template
 
 This is the Leon Template project from Elzero Web School. It is a responsive HTML and CSS template for building websites.
 
